@@ -1,0 +1,14 @@
+{
+  "name": "loadtest",
+  "version": "0.0.0",
+  "description": "A small utility to do basic load testing with a headless browser",
+  "main": "multiload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phantomjs": "^1.9.16"
+  }
+}
